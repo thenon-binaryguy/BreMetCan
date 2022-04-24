@@ -1,0 +1,20 @@
+body{
+  background-color: #9FB4FF;
+}
+
+.container{
+  background-color: white;
+  width:800px;
+  height: 800px;
+  margin: 100px auto;
+}
+
+
+.in-button{
+  background-color: #FF85B3;
+  border-radius: 27px;
+}
+
+.icon{
+  color: #ef8172;
+}

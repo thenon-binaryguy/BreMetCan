@@ -1,0 +1,133 @@
+body{
+  background-color: #9FB4FF;
+}
+
+.Home{
+  padding: 3% 7% 9%;
+}
+
+.about{
+  padding-top: 3%;
+}
+
+.logo{
+  width: 50px;
+}
+
+.nav-item{
+  margin-right: 12px;
+  font-size: 18px;
+}
+
+.nav-button{
+  margin-right: 8px;
+  margin-top: 5px;
+}
+
+.intro{
+  padding-right: 50px;
+}
+
+.bremetcan{
+  padding-top: 2%;
+  padding-bottom: 3%;
+}
+
+.intro{
+  padding-top: 3.5%;
+}
+
+h1{
+  padding-bottom: 20px;
+}
+
+.card-body{
+  background-color: #9FB4FF;
+  text-align: center;
+  border-radius: 10%;
+  border: 0;
+}
+
+.btn-index{
+  margin-top: 7px;
+  margin-right: 10px;
+}
+
+.search-div{
+  padding-top: 5%;
+}
+
+.icon{
+  color: #ef8172;
+  font-size: 45px;
+  margin-bottom: 2px;
+}
+
+.icon-db{
+  position: absolute;
+  font-size: 200px;
+  top: 200px;
+  right: 200px;
+  color: #FFBBBB;
+}
+
+.ujjwal{
+  position: absolute;
+  bottom: 120px;
+}
+
+.Shivang{
+  position: absolute;
+  left: 200px;
+  bottom: 120px;
+}
+
+.Daniel{
+  position: absolute;
+  left: 300px;
+  bottom: 120px;
+}
+
+.Sohini{
+  position: absolute;
+  left: 400px;
+  bottom: 120px;
+}
+
+.search-box{
+  width: 600px;
+  height: 50px;
+}
+
+.search-button{
+  -webkit-border-radius: 15;
+  -moz-border-radius: 15;
+  border-radius: 15px;
+  font-family: Arial;
+  color: #111;
+  font-size: 20px;
+  background: #ffffff;
+  padding: 10px 20px 10px 20px;
+  border: solid #000000 2px;
+  text-decoration: none;
+}
+
+.search-button:hover {
+  background: #FFBBBB;
+  background-image: -webkit-linear-gradient(top, #FFBBBB, #FFBBBB);
+  background-image: -moz-linear-gradient(top, #FFBBBB, #FFBBBB);
+  background-image: -ms-linear-gradient(top, #FFBBBB, #FFBBBB);
+  background-image: -o-linear-gradient(top, #FFBBBB, #FFBBBB);
+  background-image: linear-gradient(to bottom, #FFBBBB, #FFBBBB);
+  text-decoration: none;
+}
+/* .button:active {
+  background-color: #FFBBBB;
+} */
+
+.button-footer{
+  background-color: #EDE6DB;
+  position: absolute;
+  right: 130px;
+  bottom: 100px;
+}
